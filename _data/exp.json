@@ -1,0 +1,60 @@
+[
+    {
+        "company": "EPSON Edge",
+        "company_location": "Markham, Ontario, Canada",
+        "role": "Software Developer Intern",
+        "team": "Machine Learning Algorithm Research",
+        "time_duration": "May 2019 - Aug 2019 ; May 2020 - Present",
+        "details": [
+        	{
+                "title": "Image Instance Segmentation",
+                "description": "Evaluated and designed state-of-the-art algorithms for image instance segmentation. Used various methods such as image augmentation and RGB-D to achieve high accuracy. Familiarized with machine learning research methodologies such as keeping detailed research logs. This was used as part of a robotics picking pipeline. ",
+                "languages":"Tensorflow Python"
+            },
+        	{
+                "title": "Robotic Bin Picking",
+                "description": "Worked on deep learning algorithms for generating and evaluating grasping points for picking objects in occluded scenes. Designed data generation strategies with simulation software. Designed automated tools with Python and Bash scripts to evaluate the accuracy and success rate of the grasping point detection. ",
+                "languages": "Tensorflow Python Bash"
+            },
+        	{
+                "title": "Blender Scripting",
+                "description": "Wrote scripts in Blender to deform CAD models. Edited UV mapping to add material and texture to CAD models. This was used as part of a data generation pipeline",
+                "languages": "Python"
+            },
+            {
+                "title": "Realistic Robotic Simulation",
+                "description": "Developed Python and Lua scripts to realistically simulate robot grasping for training data generation with V-REP and the PyBullet physics engine. ",
+                "languages": "Python Lua"
+            },
+        	{
+                "title": "Training Infrastructure Management",
+                "description": "Set up Linux servers for researchers. Introduced technologies such as VNC, containerization, and disk encryption for training a server group. Set up network sharing service for fast file transfer. ",
+                "languages": "Bash Python"
+            }
+        ]
+    },
+    {
+        "company": "Centre for Applied Power Electronics",
+        "company_location": "Toronto, Ontario, Canada",
+        "role": "Research Assistant",
+        "team": "Software",
+        "time_duration": "May 2018 - Aug 2018",
+        "details": [
+            {
+                "title": "Embedded Real-Time Programming",
+                "description": "Developed peak-power-shaving program on the National Instruments CompactRIO industrial controllers. The software featured intelligent battery management based on active load changes. Currently it is deployed in a community power substation. ",
+                "languages": "C G"
+            },
+            {
+                    "title": "Load Forecasting Algorithm",
+                    "description": "Developed an algorithm to forecast load curves based on active usage patterns and historical usage data. Designed UI for easy-to-use interface for operators to adjust parameters on site.",
+                    "languages": "C G MATLAB"
+            },
+            {
+                "title": "FPGA Programming",
+                "description": "Designed and implemented FPGA programs for high-speed analog and digital signal acquisition and recording. Utilized a custom-designed anti-aliasing filter for high-frequency signal acquisition. Supports external storage device with USB protocol. ",
+               	"languages": "C G"
+            }
+        ]
+    }
+]

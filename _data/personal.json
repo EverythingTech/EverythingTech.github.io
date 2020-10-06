@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Yifan Lu",
+        "website": "http://yifan.dev",
+        "email": "yf.lu@utoronto.ca",
+        "phone": "+1 647-242-6866",
+        "linkedin":"",
+        "languages": [
+            {
+                "language": "C++"
+            },
+            {
+                "language": "C"
+            },
+            {
+                "language": "Python"
+            },
+            {
+                "language": "Java"
+            },
+            {
+                "language": "Bash"
+            },
+            {
+                "language": "G"
+            }
+        ],
+        "technologies": [
+            {
+                "technology": "Tensorflow"
+            },
+            {
+                "technology": "Docker"
+            },
+            {
+                "technology": "Linux"
+            },
+            {
+                "technology": "MATLAB"
+            }
+        ],
+        "courses": [
+            {
+                "course": "Operating Systems"
+            },
+            {
+                "course": "Algorithms and Data Structures"
+            },
+            {
+                "course": "Machine Learning"
+            },
+            {
+                "course": "Digital Signal Processing"
+            },
+            {
+                "course": "Probability and Applications"
+            },
+            {
+                "course": "Control Systems"
+            },
+            {
+                "course": "Advanced Engineering Mathematics"
+            },
+            {
+                "course": "Digital Systems"
+            }
+
+        ]
+    }
+]
