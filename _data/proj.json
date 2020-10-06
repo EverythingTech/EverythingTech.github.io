@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Operating System From Scratch",
+        "description": "Built a fully functional operating system from scratch. Included support for virtual memory, threads, synchronization primitives, and user-kernel-space separation. Used git for version control and familiarized with advanced git branching strategies. ",
+        "languages": "C Assembly"
+    },
+    {
+        "title": "GIS Software",
+        "description": "Created a GIS software. Built navigation features with A* graph traversal and Dijkstra's Algorithm. Used GTK to build an intuitive UI. Used git and advanced branching strategies. Led a team of three. Arranged team meetings and managed internal milestones. Utilized the Agile development methodology. ",
+        "languages": "C++"
+    },
+    {
+        "title": "Pong and Asteroids Arcade Games",
+        "description": "Programmed a Pong game and an Asteroids game with the Java Swing library. Utilized Object Oriented Programming methodologies to build modular and readable code. ",
+        "languages": "Java"
+    },
+    {
+        "title": "Web Image Database Management Application",
+        "description": "Created an advanced yet user-friendly database management application. Allows users to access and upload files based on their permission. Created a web portal for system administrators. ",
+        "languages": "PHP JavaScript JQuery HTML CSS"
+    }
+]
