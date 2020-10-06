@@ -1,1 +1,0 @@
-# EverythingTech.github.io
