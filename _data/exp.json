@@ -28,7 +28,7 @@
             },
         	{
                 "title": "Training Infrastructure Management",
-                "description": "Set up Linux servers for researchers. Introduced technologies such as VNC, containerization, and disk encryption for training a server group. Set up network sharing service for fast file transfer. ",
+                "description": "Set up Linux servers for researchers. Introduced technologies such as VNC, containerization, and disk encryption for a server group. Set up network sharing service for fast file transfer. ",
                 "languages": "Bash Python"
             }
         ]

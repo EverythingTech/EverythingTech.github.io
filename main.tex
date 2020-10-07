@@ -114,15 +114,21 @@ require("_lua/parser.lua")
   \resumeSubHeadingListStart
     \directlua{printProjItems("_data/proj.json")}
   \resumeSubHeadingListEnd
-  
+
 % Print Skills
 %-------------------------------------------
-\section{Programming Skills}
+\section{Skills}
   \resumeSubHeadingListStart 
     \item{
-      \textbf{Languages}{: \directlua{printList("_data/personal.json", "languages", "language")}}
-      \hfill
-      \textbf{Technologies}{: \directlua{printList("_data/personal.json", "technologies", "technology")}}
+      \textbf{Programming}{: \directlua{printList("_data/personal.json", "programming", "programming")}}
+      }
+    \vspace{-5pt}
+    \item{
+      \textbf{Software}{: \directlua{printList("_data/personal.json", "software", "software")}}
+      }
+    \vspace{-5pt}
+    \item{
+      \textbf{Courses}{: \directlua{printList("_data/personal.json", "course", "course")}}
       }
   \resumeSubHeadingListEnd
 

@@ -5,41 +5,62 @@
         "email": "yf.lu@utoronto.ca",
         "phone": "+1 647-242-6866",
         "linkedin":"",
-        "languages": [
+        "programming": [
             {
-                "language": "C++"
+                "programming": "C++"
             },
             {
-                "language": "C"
+                "programming": "C"
             },
             {
-                "language": "Python"
+                "programming": "Python"
             },
             {
-                "language": "Java"
+                "programming": "Java"
             },
             {
-                "language": "Bash"
+                "programming": "Bash"
             },
             {
-                "language": "G"
+                "programming": "Assembly"
+            },
+            {
+                "programming": "Verilog"
+            },
+            {
+                "programming": "MATLAB"
+            },
+            {
+                "programming": "G"
             }
         ],
-        "technologies": [
+        "software": [
             {
-                "technology": "Tensorflow"
+                "software": "Tensorflow"
             },
             {
-                "technology": "Docker"
+                "software": "Linux"
             },
             {
-                "technology": "Linux"
+                "software": "git/Subversion"
             },
             {
-                "technology": "MATLAB"
+                "software": "Docker"
+            },
+            {
+                "software": "MATLAB"
+            },
+            {
+                "software": "Quartus Prime"
+            },
+            {
+                "software": "Blender"
+            },
+            {
+                "software": "Fusion 360"
             }
         ],
-        "courses": [
+        "course": [
             {
                 "course": "Operating Systems"
             },
@@ -51,18 +72,6 @@
             },
             {
                 "course": "Digital Signal Processing"
-            },
-            {
-                "course": "Probability and Applications"
-            },
-            {
-                "course": "Control Systems"
-            },
-            {
-                "course": "Advanced Engineering Mathematics"
-            },
-            {
-                "course": "Digital Systems"
             }
 
         ]
