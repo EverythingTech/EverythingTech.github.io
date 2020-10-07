@@ -74,17 +74,24 @@ title: Yifan Lu
 
         <div class="content">
           <span class="heading"><h3>Skills</h3></span>
-            <p class="heading is-marginless">Languages</p>
+            <p class="heading is-marginless">Programming</p>
             <p style="font-size: 0.8rem">
-            {% for language in personalData.languages %}
-              {{language.language}}
+            {% for programming in personalData.programming %}
+              {{programming.programming}}
             {% endfor %}
             </p>
 
-            <p class="heading is-marginless">Technologies</p>
+            <p class="heading is-marginless">Software</p>
             <p style="font-size: 0.8rem">
-            {% for technology in personalData.technologies %}
-                {{technology.technology}}
+            {% for software in personalData.technologies %}
+                {{software.software}}
+              {% endfor %}
+            </p>
+
+            <p class="heading is-marginless">Courses</p>
+            <p style="font-size: 0.8rem">
+            {% for course in personalData.course %}
+                {{course.course}}
               {% endfor %}
             </p>
         </div>
